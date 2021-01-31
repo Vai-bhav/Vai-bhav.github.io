@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/render-react-boilerplate/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/render-react-boilerplate/static/js/main.982e3338.chunk.js",
+    "main.js.map": "/render-react-boilerplate/static/js/main.982e3338.chunk.js.map",
+    "runtime-main.js": "/render-react-boilerplate/static/js/runtime-main.63972b98.js",
+    "runtime-main.js.map": "/render-react-boilerplate/static/js/runtime-main.63972b98.js.map",
+    "static/js/2.6e8530c7.chunk.js": "/render-react-boilerplate/static/js/2.6e8530c7.chunk.js",
+    "static/js/2.6e8530c7.chunk.js.map": "/render-react-boilerplate/static/js/2.6e8530c7.chunk.js.map",
+    "static/js/3.a0adcc69.chunk.js": "/render-react-boilerplate/static/js/3.a0adcc69.chunk.js",
+    "static/js/3.a0adcc69.chunk.js.map": "/render-react-boilerplate/static/js/3.a0adcc69.chunk.js.map",
+    "index.html": "/render-react-boilerplate/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/render-react-boilerplate/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.6e8530c7.chunk.js.LICENSE.txt": "/render-react-boilerplate/static/js/2.6e8530c7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.63972b98.js",
+    "static/js/2.6e8530c7.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.982e3338.chunk.js"
+  ]
+}
